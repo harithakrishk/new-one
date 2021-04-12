@@ -7,6 +7,7 @@ import { MycmComponent } from './mycm/mycm.component';
 import { GrdnComponent } from './grdn/grdn.component';
 import { NewComponent } from './new/new.component';
 import { SampleComponent } from './sample/sample.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { SampleComponent } from './sample/sample.component';
     MycmComponent,
     GrdnComponent,
     NewComponent,
-    SampleComponent
+    SampleComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #667d81;
+    background-size: cover;
+    background-position: center;
+}
+.ts{
+    text-align: center;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+input{
+    padding: 5px;
+    
+
+}
+button{
+    background-color: rgb(18, 104, 184);
+    width: 163px;
+    border-radius: 15px;
+    padding: 10px;
+    color: #fff;
+
+    
+}
+table{
+    padding: 30px;
+    margin: 100px 150px 150px 600px;
+    text-align: center;
+    
+}
