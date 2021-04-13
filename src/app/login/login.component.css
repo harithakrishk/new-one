@@ -1,6 +1,5 @@
 body{
-    margin: 0;
-    padding: 0;
+    
     background-color: #acc4c9;
     background-size: cover;
   
@@ -26,8 +25,10 @@ button{
     
 }
 table{
-    padding: 10%;
+    padding: 30px;
     margin: 100px 150px 150px 600px;
     text-align: center;
+    
+    
     
 }
