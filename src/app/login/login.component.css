@@ -3,7 +3,7 @@ body{
     padding: 0;
     background-color: #b0e9e6;
     background-size: cover;
-    background-position: center;
+    
 }
 .ts{
     text-align: center;
@@ -26,7 +26,7 @@ button{
     
 }
 table{
-    padding: 30px;
+    padding: 30%;
     margin: 100px 150px 150px 600px;
     text-align: center;
     
