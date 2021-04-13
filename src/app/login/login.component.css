@@ -3,7 +3,7 @@ body{
     padding: 0;
     background-color: #b0e9e6;
     background-size: cover;
-    background-position: center;
+    /* background-position: center; */
 }
 .ts{
     text-align: center;
