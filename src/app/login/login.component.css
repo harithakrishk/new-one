@@ -1,9 +1,9 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #b0e9e6;
+    background-color: #acc4c9;
     background-size: cover;
-    
+    background-position: center;
 }
 .ts{
     text-align: center;
@@ -26,11 +26,8 @@ button{
     
 }
 table{
-    padding: 30%;
-    margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+    padding: 10%;
+    margin: 100px 150px 150px 600px;
     text-align: center;
     
 }
